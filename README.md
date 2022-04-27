@@ -2,4 +2,4 @@
 git learning
 test
 push
-ikinci
+ikinci2
