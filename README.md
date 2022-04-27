@@ -1,0 +1,2 @@
+# ogreniyorum
+git learning
